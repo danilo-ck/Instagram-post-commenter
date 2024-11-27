@@ -1,0 +1,5 @@
+# Renombra este archivo a config.py y añade tus credenciales
+USERNAME = "tu_usuario_de_instagram"
+PASSWORD = "tu_contraseña_de_instagram"
+POST_URL = "url_del_post_a_comentar"
+COMMENT_TEXT = "texto_del_comentario" 
